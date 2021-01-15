@@ -21,7 +21,7 @@ Twitter:  [kinnalru](https://twitter.com/kinnalru) - for little things <br>
 Medium:   [kinnalru](https://medium.com/@kinnalru) - personal technical blog <br>
 Teletype: [jerry_ru](https://teletype.in/@jerry_ru) - blogging experiments <br>
 Facebook: [kinnalru](https://www.facebook.com/kinnalru) - social contacts <br>
-Instagram: [kinnalru] https://www.instagram.com/kinnalru - wtfo? <br>
+Instagram: [kinnalru](https://www.instagram.com/kinnalru) - wtfo? <br>
 Dev.to: [kinnalru](https://dev.to/kinnalru) - some technical account <br>
 Reddit: [kinnalru](https://www.reddit.com/user/kinnalru) - some technical account <br>
 
