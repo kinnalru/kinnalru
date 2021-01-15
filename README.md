@@ -1,12 +1,10 @@
 ### Hello / Привет 👋
 
-My name is Yuri. I'am a lead developer and technical writer at @RND-SOFT<br>
-Меня зовут Юрий. Я ведущий разработчик и технический писатель в @RND-SOFT
+My name is Yuri. I'am a lead developer and technical writer at [@RND-SOFT](https://github.com/RND-SOFT) <br>
+Меня зовут Юрий. Я ведущий разработчик и технический писатель в [@RND-SOFT](https://github.com/RND-SOFT)
 
-I'am closely working with Ruby and other related technologies and blogging to https://blog.rnds.pro
+I'am closely working with Ruby and other related technologies and blogging to https://blog.rnds.pro <br>
 Я плотно работаю с Ruby и прочими связанными технологиями и пишу в блог https://blog.rnds.pro
-
-My name is Vladimir (or Вова), and I'm a lead developer at @evilmartians.
 
  ### Ask me about / Спрашивайте меня о 💬  
 
@@ -19,8 +17,8 @@ My name is Vladimir (or Вова), and I'm a lead developer at @evilmartians.
 ### How to reach me / Контакты 📫 
 
 Telegram: [@jerry_ru](https://t.me/jerry_ru) - Всегда на связи <br>
-Twitter: [kinnalru](https://twitter.com/kinnalru) - for little things <br>
-Medium: [kinnalru](https://medium.com/@kinnalru) - personal technical blog <br>
+Twitter:  [kinnalru](https://twitter.com/kinnalru) - for little things <br>
+Medium:   [kinnalru](https://medium.com/@kinnalru) - personal technical blog <br>
 Teletype: [jerry_ru](https://teletype.in/@jerry_ru) - blogging experiments <br>
 Facebook: [kinnalru](https://www.facebook.com/kinnalru) - social contacts <br>
 Instagram: [kinnalru] https://www.instagram.com/kinnalru - wtfo? <br>
