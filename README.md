@@ -1,7 +1,7 @@
 ### Hello / Привет 👋
 
-My name is Yuri. I'am a lead developer and technical writer [@RND-SOFT](https://github.com/RND-SOFT) <br>
-Меня зовут Юрий. Я ведущий разработчик и технический писатель [@RND-SOFT](https://github.com/RND-SOFT)
+My name is Yuri. I'am a lead developer and technical writer @ [RND-SOFT](https://github.com/RND-SOFT) <br>
+Меня зовут Юрий. Я ведущий разработчик и технический писатель @ [RND-SOFT](https://github.com/RND-SOFT)
 
 I'am closely working with Ruby and other related technologies and blogging to https://blog.rnds.pro <br>
 Я плотно работаю с Ruby и прочими связанными технологиями и пишу в блог https://blog.rnds.pro
