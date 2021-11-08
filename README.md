@@ -8,6 +8,8 @@ I'am closely working with Ruby and other related technologies and blogging to ht
 
  ### Ask me about / Спрашивайте меня о 💬  
 
+<img src="https://user-images.githubusercontent.com/1270997/140704154-7cd3be57-56ea-431f-b83d-738297825a92.png" data-canonical-src="https://user-images.githubusercontent.com/1270997/140704154-7cd3be57-56ea-431f-b83d-738297825a92.png" align="right" />
+
 * Ruby, Rails ...
 * Event Based Architecture, Message Processing, Microservices ...
 * Distributed Systems, Asynchronous World, Shit Happens ...
@@ -24,8 +26,6 @@ Facebook: [kinnalru](https://www.facebook.com/kinnalru) - social contacts <br>
 Instagram: [kinnalru](https://www.instagram.com/kinnalru) - wtfo? <br>
 Dev.to: [kinnalru](https://dev.to/kinnalru) - some technical account <br>
 Reddit: [u/kinnalru](https://www.reddit.com/user/kinnalru) - some technical account <br>
-
-
 
 <!--
 **kinnalru/kinnalru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
