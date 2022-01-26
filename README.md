@@ -44,3 +44,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Фоточка...
+
+![ava2](https://user-images.githubusercontent.com/1270997/151119068-92177985-31cf-4eac-8e41-7c411b881d48.png)
+
