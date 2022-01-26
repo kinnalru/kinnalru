@@ -1,5 +1,7 @@
 ### Hello / Привет 👋
 
+<img src="https://user-images.githubusercontent.com/1270997/151119068-92177985-31cf-4eac-8e41-7c411b881d48.png" data-canonical-src="hhttps://user-images.githubusercontent.com/1270997/151119068-92177985-31cf-4eac-8e41-7c411b881d48.png" align="right" width="100px" />
+
 My name is Yuri. I'am a lead developer and technical writer @ [RND-SOFT](https://github.com/RND-SOFT) <br>
 Меня зовут Юрий. Я ведущий разработчик и технический писатель @ [RND-SOFT](https://github.com/RND-SOFT)
 
@@ -46,7 +48,4 @@ Here are some ideas to get you started:
 -->
 
 
-### Фоточка...
-
-![ava2](https://user-images.githubusercontent.com/1270997/151119068-92177985-31cf-4eac-8e41-7c411b881d48.png)
 
