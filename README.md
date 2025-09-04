@@ -24,13 +24,10 @@ I'am closely working with Ruby and other related technologies and blogging to ht
 ### How to reach me / Контакты 📫 
 
 Telegram: [@jerry_ru](https://t.me/jerry_ru) - Всегда на связи <br>
-Twitter:  [kinnalru](https://twitter.com/kinnalru) - for little things <br>
-Medium:   [kinnalru](https://medium.com/@kinnalru) - personal technical blog <br>
+Telegram Channel: [architdev](https://t.me/architdev) - Мой канальчик <br>
 Teletype: [jerry_ru](https://teletype.in/@jerry_ru) - blogging experiments <br>
-Facebook: [kinnalru](https://www.facebook.com/kinnalru) - social contacts <br>
-Instagram: [kinnalru](https://www.instagram.com/kinnalru) - wtfo? <br>
 Dev.to: [kinnalru](https://dev.to/kinnalru) - some technical account <br>
-Reddit: [u/kinnalru](https://www.reddit.com/user/kinnalru) - some technical account <br>
+
 
 <!--
 **kinnalru/kinnalru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
