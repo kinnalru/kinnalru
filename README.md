@@ -18,7 +18,8 @@ I'am closely working with Ruby and other related technologies and blogging to ht
 * Consul, Traefik, Docker, RabbitMQ, Prometheus, ELK ...
 * Linux, Gentoo ...
 
-[![Telegram](https://img.shields.io/static/v1?label=telegram&message=@jerry_ru&color=blue&logo=telegram)](https://t.me/jerry_ru)
+[![Channel](https://img.shields.io/static/v1?label=channel&message=@architdev&color=blue&logo=telegram)](https://t.me/architdev)
+[![Perosnal](https://img.shields.io/static/v1?label=telegram&message=@jerry_ru&color=blue&logo=telegram)](https://t.me/jerry_ru)
 [![Blog](https://img.shields.io/static/v1?label=blog&message=blog.rnds.pro&color=orange&logo=telegraph)](https://blog.rnds.pro)
 
 ### How to reach me / Контакты 📫 
