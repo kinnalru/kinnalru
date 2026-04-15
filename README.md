@@ -8,7 +8,7 @@ My name is Yuri. I'am a lead developer and technical writer @ [RND-SOFT](https:/
 I'am closely working with Ruby and other related technologies and blogging to https://blog.rnds.pro <br>
 Я плотно работаю с Ruby и прочими связанными технологиями и пишу в блог https://blog.rnds.pro
 
- ### Ask me about / Спрашивайте меня о 💬  
+### Ask me about / Спрашивайте меня о 💬  
 
 <img src="./qr.png" data-canonical-src="./qr.png" align="right" />
 
@@ -27,12 +27,19 @@ I'am closely working with Ruby and other related technologies and blogging to ht
 
 ### How to reach me / Контакты 📫 
 
-MAX: [Юрий](https://max.ru/u/f9LHodD0cOJUM1tltjdTMJf57shVhouUvORcKn-Cg2hCA6Dl72HDlIIvs-g) - в MAX
+MAX: [Юрий](https://max.ru/u/f9LHodD0cOJUM1tltjdTMJf57shVhouUvORcKn-Cg2hCA6Dl72HDlIIvs-g) - теперь и в MAX
 Telegram: [@jerry_ru](https://t.me/jerry_ru) - Всегда на связи <br>
 Telegram Channel: [architdev](https://t.me/architdev) - Мой канальчик <br>
 Teletype: [jerry_ru](https://teletype.in/@jerry_ru) - blogging experiments <br>
 Dev.to: [kinnalru](https://dev.to/kinnalru) - some technical account <br>
 
+Бывшие аккаунты в которых меня давн нет (да и не было особо):
+
+~~Twitter:  [kinnalru](https://twitter.com/kinnalru)~~ - no more <br>
+~~Medium:   [kinnalru](https://medium.com/@kinnalru)~~ - no more <br>
+~~Facebook: [kinnalru](https://www.facebook.com/kinnalru)~~ - no more <br>
+~~Instagram: [kinnalru](https://www.instagram.com/kinnalru)~~ - no more <br>
+~~Reddit: [u/kinnalru](https://www.reddit.com/user/kinnalru)~~ - no more <br>
 
 <!--
 **kinnalru/kinnalru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
