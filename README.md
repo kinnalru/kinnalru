@@ -1,29 +1,33 @@
 ### Hello / Привет 👋
 
-<img src="https://user-images.githubusercontent.com/1270997/151119068-92177985-31cf-4eac-8e41-7c411b881d48.png" data-canonical-src="hhttps://user-images.githubusercontent.com/1270997/151119068-92177985-31cf-4eac-8e41-7c411b881d48.png" align="right" width="100px" />
+<img src="./avatar.png" data-canonical-src="./avatar.png" align="right" width="100px" />
 
-My name is Yuri. I'am a lead developer and technical writer @ [RND-SOFT](https://github.com/RND-SOFT) <br>
-Меня зовут Юрий. Я ведущий разработчик и технический писатель @ [RND-SOFT](https://github.com/RND-SOFT)
+My name is Yuri. I'am a lead developer and technical writer @ [RND-SOFT](https://github.com/RND-SOFT) (Agredator)<br>
+Меня зовут Юрий. Я ведущий разработчик и технический писатель @ [RND-SOFT](https://github.com/RND-SOFT) (Agredator)
 
 I'am closely working with Ruby and other related technologies and blogging to https://blog.rnds.pro <br>
 Я плотно работаю с Ruby и прочими связанными технологиями и пишу в блог https://blog.rnds.pro
 
  ### Ask me about / Спрашивайте меня о 💬  
 
-<img src="https://user-images.githubusercontent.com/1270997/140704154-7cd3be57-56ea-431f-b83d-738297825a92.png" data-canonical-src="https://user-images.githubusercontent.com/1270997/140704154-7cd3be57-56ea-431f-b83d-738297825a92.png" align="right" />
+<img src="./qr.png" data-canonical-src="./qr.png" align="right" />
 
-* Ruby, Rails ...
+* Ruby, Rails, GoLang and AI ...
 * Event Based Architecture, Message Processing, Microservices ...
 * Distributed Systems, Asynchronous World, Shit Happens ...
 * Consul, Traefik, Docker, RabbitMQ, Prometheus, ELK ...
 * Linux, Gentoo ...
 
 [![Channel](https://img.shields.io/static/v1?label=channel&message=@architdev&color=blue&logo=telegram)](https://t.me/architdev)
+[![Max](https://img.shields.io/static/v1?label=MAX&message=%D0%AE%D1%80%D0%B8%D0%B9&color=blue&logo=moscowmetro)](https://max.ru/u/f9LHodD0cOJUM1tltjdTMJf57shVhouUvORcKn-Cg2hCA6Dl72HDlIIvs-g)
 [![Perosnal](https://img.shields.io/static/v1?label=telegram&message=@jerry_ru&color=blue&logo=telegram)](https://t.me/jerry_ru)
 [![Blog](https://img.shields.io/static/v1?label=blog&message=blog.rnds.pro&color=orange&logo=telegraph)](https://blog.rnds.pro)
 
+
+
 ### How to reach me / Контакты 📫 
 
+MAX: [Юрий](https://max.ru/u/f9LHodD0cOJUM1tltjdTMJf57shVhouUvORcKn-Cg2hCA6Dl72HDlIIvs-g) - в MAX
 Telegram: [@jerry_ru](https://t.me/jerry_ru) - Всегда на связи <br>
 Telegram Channel: [architdev](https://t.me/architdev) - Мой канальчик <br>
 Teletype: [jerry_ru](https://teletype.in/@jerry_ru) - blogging experiments <br>
